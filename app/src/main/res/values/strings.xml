@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Text Encryptor</string>
+    <string name="Enter_Text">Enter Text</string>
+    <string name="cEncrypt">Ceaser Encrypt</string>
+    <string name="cDecrypt">Ceaser Decrypt</string>
+    <string name="rEncrypt">Ceaser Decrypt</string>
+    <string name="rDecrypt">Ceaser Decrypt</string>
+</resources>
